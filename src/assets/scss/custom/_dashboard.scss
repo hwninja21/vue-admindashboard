@@ -1,0 +1,189 @@
+.sidebar-check{
+    background-color: #CEF9C6;
+    padding: 4px 30px 5px 5px;
+    border-radius: 50%;
+    font-size: 25px;
+}
+.sidebar-chat{
+    background-color: #FFF8DD;
+    padding: 4px 25px 5px 10px;
+    border-radius: 50%;
+    font-size: 15px;
+    text-align: center;
+}
+.sidebar-download{
+    background-color: #E3EFFF;
+    padding: 4px 30px 5px 10px;
+    border-radius: 50%;
+    font-size: 20px;
+}
+.hr-line{
+    position:absolute;
+  content:'';
+  width:2px;
+  left: 30px;
+  height:calc(100% + 80px);
+background: lightgrey;
+}
+.notification-imgs{
+    display:flex;
+    justify-content: space-evenly;
+}
+.dashboard-counter{
+    font-size: 65px;
+}
+.Fill_1 {
+    overflow: visible;
+    position: absolute;
+    width: 100%;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Fill_1 {
+    fill: rgba(126,185,115,1);
+}
+#Chart_d {
+    position: absolute;
+    width: 167.162px;
+    height: 167.162px;
+    left: 84px;
+    top: 98px;
+    overflow: visible;
+}
+
+element.style {
+}
+.Oval_d {
+    position: absolute;
+    overflow: visible;
+    width: 150px;
+    height: 150px;
+    left: 9px;
+    top: 9px;
+}
+#Oval_d {
+    fill: transparent;
+    stroke: rgba(234,234,234,1);
+    stroke-width: 10px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 10;
+    shape-rendering: auto;
+}
+.Oval_ea {
+    overflow: visible;
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    transform: translate(0px, 0px) matrix(1,0,0,1,8.5812,8.5812) rotate(173deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Oval_ea {
+    fill: transparent;
+    stroke: rgba(126,185,115,1);
+    stroke-width: 10px;
+    stroke-linejoin: miter;
+    stroke-linecap: round;
+    stroke-dasharray: 256 500;
+    stroke-dashoffset: 0;
+    stroke-miterlimit: 10;
+    shape-rendering: auto;
+}
+#ID62 {
+    left: 40.504px;
+    top: 50px;
+    position: absolute;
+    overflow: visible;
+    width: 87px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 46px;
+    color: rgba(126,185,115,1);
+}
+
+#Chart {
+    position: absolute;
+    width: 167.162px;
+    height: 167.162px;
+    left: 84px;
+    top: 98px;
+    overflow: visible;
+}
+.Oval_dy {
+    position: absolute;
+    overflow: visible;
+    width: 150px;
+    height: 150px;
+    left: 9px;
+    top: 9px;
+}
+#Oval_dy {
+    fill: transparent;
+    stroke: rgba(234,234,234,1);
+    stroke-width: 10px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 10;
+    shape-rendering: auto;
+}
+.Oval_dz {
+    overflow: visible;
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    transform: translate(0px, 0px) matrix(1,0,0,1,8.5812,8.5812) rotate(173deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Oval_dz {
+    fill: transparent;
+    stroke: rgba(118,76,237,1);
+    stroke-width: 10px;
+    stroke-linejoin: miter;
+    stroke-linecap: round;
+    stroke-dasharray: 196 500;
+    stroke-dashoffset: 0;
+    stroke-miterlimit: 10;
+    shape-rendering: auto;
+}
+#ID47 {
+    left: 40.504px;
+    top: 50px;
+    position: absolute;
+    overflow: visible;
+    width: 87px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 46px;
+    color: rgba(118,76,237,1);
+}
+
+.notification-alert{
+    color: #EE6A0A;
+    background-color: #FFF1E2;
+    margin-left: 20px;
+    font-weight: bold;
+    font-size: 13px;
+    border-radius: 20px;
+    padding: 3px 5px;
+}
+
+.notification-alert-two{
+    color: #764CED;
+    background-color: #F5F0FF;
+    margin-left: 20px;
+    font-weight: bold;
+    font-size: 13px;
+    border-radius: 20px;
+    padding: 3px 5px;
+}
